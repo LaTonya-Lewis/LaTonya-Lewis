@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaTonya-Lewis
-- 👀 I’m interested in Academics and Software Development utilizing such languages as, Java, C++, Python, C#, Android, iOS Swift and JavaScript
+- 👀 I’m interested in Educational Structures and Software Development utilizing such languages as, Java, C++, Python, C#, Android, iOS Swift and JavaScript
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Java and Python projects
 - 📫 How to reach me: developerlewis@gmail.com
